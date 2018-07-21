@@ -2,6 +2,13 @@
 
 > Simple CLI tool to wipe node_modules directories recursively from your current working directory.
 
+## Try it out!
+
+```bash
+# instantly run cleanse without installing
+$ npx cleanse-cli
+```
+
 ## Installation
 
 ```bash

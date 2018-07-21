@@ -1,6 +1,6 @@
 {
   "name": "cleanse-cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Simple CLI tool to wipe node_modules directories recursively from your current working directory",
   "bin": {
     "cleanse": "dist/index.js"
