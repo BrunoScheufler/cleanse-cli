@@ -1,6 +1,6 @@
 # cleanse
 
-> Simple CLI to wipe node_modules recursively from your current working directory.
+> Simple CLI tool to wipe node_modules directories recursively from your current working directory.
 
 ## Installation
 
@@ -14,8 +14,8 @@ yarn global add cleanse-cli
 
 ## Usage
 
-Simply run
+In your current working directory where you want to remove all `node_modules` directories recursively, simply run
 
-```
+```bash
 cleanse
 ```
