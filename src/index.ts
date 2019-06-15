@@ -22,7 +22,7 @@ const handleError = (err: Error) => {
 
 (async () => {
   process.on('uncaughtException', handleError);
-  process.on('unhandledRejection', handleError);
+  process.on('unhandledRejection', () => handleError(new Error('Unhandled promise rejection')));
 
   const paths = await globby(['**/node_modules', '!**/node_modules/**/node_modules'], { expandDirectories: false, onlyDirectories: true });
 
