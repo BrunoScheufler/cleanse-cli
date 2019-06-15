@@ -1,8 +1,8 @@
 {
 	"arrowParens": "avoid",
-	"useTabs": true,
+	"useTabs": false,
 	"trailingComma": "none",
-	"tabWidth": 4,
+	"tabWidth": 2,
 	"singleQuote": true,
 	"semi": true,
 	"printWidth": 150,
