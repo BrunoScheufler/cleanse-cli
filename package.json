@@ -36,7 +36,7 @@
     "ora": "3.4.0"
   },
   "devDependencies": {
-    "@types/fs-extra": "7.0.0",
+    "@types/fs-extra": "8.0.0",
     "@types/globby": "9.1.0",
     "@types/node": "12.0.10",
     "@types/ora": "3.2.0",
