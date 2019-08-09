@@ -26,6 +26,10 @@ jobs:
       - run:
           name: install
           command: yarn
+      # build
+      - run:
+          name: build
+          command: yarn build
       # lint code
       - run:
           name: lint
