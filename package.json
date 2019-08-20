@@ -43,7 +43,7 @@
     "prettier": "1.18.2",
     "semantic-release": "15.13.21",
     "ts-node-dev": "1.0.0-pre.41",
-    "tslint": "5.18.0",
+    "tslint": "5.19.0",
     "typescript": "3.5.3"
   },
   "repository": "BrunoScheufler/cleanse-cli"
