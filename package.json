@@ -40,7 +40,7 @@
     "@types/globby": "9.1.0",
     "@types/node": "12.12.7",
     "@types/ora": "3.2.0",
-    "prettier": "1.19.0",
+    "prettier": "1.19.1",
     "semantic-release": "15.13.30",
     "ts-node-dev": "1.0.0-pre.44",
     "tslint": "5.20.1",
