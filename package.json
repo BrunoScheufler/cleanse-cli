@@ -44,7 +44,7 @@
     "semantic-release": "15.14.0",
     "ts-node-dev": "1.0.0-pre.44",
     "tslint": "5.20.1",
-    "typescript": "3.9.2"
+    "typescript": "3.9.3"
   },
   "repository": "BrunoScheufler/cleanse-cli"
 }
