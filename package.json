@@ -30,7 +30,7 @@
   "author": "Bruno Scheufler",
   "license": "MIT",
   "dependencies": {
-    "chalk": "3.0.0",
+    "chalk": "4.1.0",
     "fs-extra": "8.1.0",
     "globby": "10.0.2",
     "ora": "4.1.1"
